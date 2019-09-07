@@ -1,2 +1,2 @@
-test Hello World. Adding more text. testing for continuous integration
+test Hello World. Adding more text. testing for continuous integration. Finally the continuous integration worked.
  
