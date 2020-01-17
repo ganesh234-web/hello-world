@@ -1,2 +1,2 @@
-styles.cs
+styles.css
 *.jar
