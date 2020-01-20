@@ -4,3 +4,4 @@ test Hello World. Adding more text. testing for continuous integration. Finally 
  
  Testing the deleting of file and commiting the changes. With this commit only the changes to this file should be visisble and .css and jar will not be synced.
  
+Testing the powershell command
